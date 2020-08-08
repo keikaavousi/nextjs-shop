@@ -1,1 +1,1 @@
-This is a [Next.js](https://nextjs.org/) project for the "Nextjs Online Tutorial"
+This is a sample [Next.js](https://nextjs.org/) shopping webiste created for the "Nextjs Online Tutorial"
