@@ -1,0 +1,11 @@
+.description {
+    padding: 30px;
+    font-size: 1.1em;
+    margin-top: 30px;
+    border-top: 1px solid rgb(207, 207, 207);
+}
+
+.atc {
+    display: block;
+    margin-top: 20px;
+}
